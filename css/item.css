@@ -140,6 +140,7 @@ footer>div:nth-child(2) {
 @media only screen and (min-width: 90rem) {
   main {
     width: 90rem;
+    justify-self: center;
   }
 }
 
